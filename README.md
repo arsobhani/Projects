@@ -1,1 +1,1 @@
-Collection of my programming 
+Collection of my work in C/C++ 
